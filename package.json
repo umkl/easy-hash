@@ -1,0 +1,6 @@
+{
+	"name": "easy-hash",
+	"bin": {
+		"easy-hash": "./bin/cli.js"
+	}
+}
