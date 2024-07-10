@@ -2,5 +2,9 @@
 	"name": "easy-hash",
 	"bin": {
 		"easy-hash": "./bin/cli.js"
+	},
+	"type": "module",
+	"dependencies": {
+		"crypto": "^1.0.1"
 	}
 }

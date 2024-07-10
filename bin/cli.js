@@ -1,3 +1,4 @@
 #!/usr/bin/env node
 
-console.log("Hello, World!");
+import { generateHash } from "../app.js";
+console.log(generateHash());

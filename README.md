@@ -1,7 +1,9 @@
 # easy hash
 
-just for creating a quick hash ...
+run `easy-hash` for creating a quick hash
+
+setup:
 
 ```
-easy-hash
+npm install && npm link
 ```
